@@ -1,0 +1,38 @@
+{
+  "name": "koishi-plugin-king-game",
+  "description": "koishi上的国王游戏的插件",
+  "version": "0.1.0",
+  "contributors": [                         
+    "wartty <wartty@petalmail.com>"
+  ],  
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wartty/koishi-plugin-king-game.git"
+  },
+  
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "games"
+  ],
+  "koishi": {
+    "category": "game",
+    "description": {
+      "en": "king games",
+      "zh": "国王游戏"
+    }
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "4.18.7"
+  }
+}
