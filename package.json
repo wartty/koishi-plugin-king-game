@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-king-game",
   "description": "koishi上的国王游戏的插件",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "contributors": [
     "wartty <wartty@petalmail.com>"
   ],
